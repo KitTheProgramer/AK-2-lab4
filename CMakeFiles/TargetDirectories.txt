@@ -1,0 +1,4 @@
+/home/kit/labs/AK-2-lab4/CMakeFiles/rebuild_cache.dir
+/home/kit/labs/AK-2-lab4/CMakeFiles/my_library.dir
+/home/kit/labs/AK-2-lab4/CMakeFiles/edit_cache.dir
+/home/kit/labs/AK-2-lab4/CMakeFiles/main.dir
